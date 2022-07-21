@@ -1,0 +1,2 @@
+rootProject.name='Yogesh Sensor App'
+include ':app'
